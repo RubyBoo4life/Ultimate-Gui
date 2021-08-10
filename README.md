@@ -27,7 +27,7 @@ local TowerOfHell = Instance.new("TextButton")
 --Properties:
 
 UltimateGui.Name = "UltimateGui"
-UltimateGui.Parent = game.Workspace
+UltimateGui.Parent = game.CoreGui
 UltimateGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 Main.Name = "Main"
