@@ -1,7 +1,6 @@
--- Gui to Lua
--- Version: 3.2
+-- Ultimate Gui
 
--- Instances:
+-Version 1.0.0
 
 local UltimateGui = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
